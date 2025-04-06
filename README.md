@@ -26,12 +26,10 @@ src
 │   └──  ReleaseUseCase.ts
 ├── core
 │   └── VersionManager.ts
-├── main.ts
 └── ports
     ├── Commits.ts
     ├── input
     │   └── GitHubActionEntry.ts
     ├── output
     └── Repository.ts
-
 ```
